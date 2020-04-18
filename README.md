@@ -19,3 +19,7 @@ __Sold at__: The date at which it was sold at<br>
 I explored the data with the help of matplotlib and seaborn the data visualization packages of python I was able to get some insights into the data set .
 
 Finally I also fitted a Neural Network model on the dataset to predict price of the cars with similar features . I was able to explain about 82% variation in the dataset with R-squared value of 82%
+
+
+__The Medium Post of this analysis can be found here__
+https://medium.com/@sumsaw7/predict-the-re-sale-price-of-bmw-car-using-neural-network-21f379d99e11
